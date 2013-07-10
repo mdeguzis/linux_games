@@ -1,0 +1,6 @@
+1. Extract the package
+2. cd into rott directory
+3. type 'make clean' followed by 'make'
+4. copy the contents of 'shareware' into the new rott DIR
+4. './rott' to play! 
+
